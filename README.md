@@ -1,4 +1,4 @@
 # My portfolio
 This portfolio is a work in progress, more information will be added as I get more experience to add and more time to develop the site.
 
-**Time spent on site so far: 7 hours and 31 minutes**
+**Time spent on site so far: 8 hours and 13 minutes**
